@@ -1,0 +1,23 @@
+{
+  "version" : "5.8.0.v202510131944",
+  "projects" : [ ],
+  "mostRecentlyUsedProjects" : [ {
+    "name" : "unemployment_rate",
+    "timeUsed" : "2025-10-25T23:13:24.7010671+05:00",
+    "origin" : {
+      "providerId" : "My-KNIME-Hub",
+      "spaceId" : "*lItM8KB3wy6bkuvL",
+      "projectType" : "WORKFLOW",
+      "itemId" : "*lW80trYarrALtLIj"
+    }
+  }, {
+    "name" : "Unployment_rate",
+    "timeUsed" : "2025-10-25T23:18:06.5392234+05:00",
+    "origin" : {
+      "providerId" : "My-KNIME-Hub",
+      "spaceId" : "*rwjOs-xJ9Aw-r8p5",
+      "projectType" : "WORKFLOW",
+      "itemId" : "*4cpitQ3sqU2f6bUT"
+    }
+  } ]
+}
