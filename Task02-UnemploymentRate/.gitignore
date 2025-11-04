@@ -1,0 +1,80 @@
+# ============================
+# 👩‍💻 KNIME + Python Project
+# ============================
+
+# --- KNIME Cache & Metadata ---
+.metadata/
+*.knimeLock
+*.knimeLock.tmp
+*.knimeTrash
+*.knime.tmp
+*.log
+*.lock
+*.bak
+*.tmp
+*.csv~ 
+*.xlsx~
+*.swp
+
+# KNIME Chromium Browser Cache (causing "Permission Denied" errors)
+**/com.equo.chromium/**
+**/cefcache/**
+**/Default/Cache/**
+**/Cache_Data/**
+
+# --- Python Cache & Bytecode ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Jupyter/Colab Files ---
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.ipynb_*
+
+# --- Virtual Environments ---
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# --- System Files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Build / Package Files ---
+build/
+dist/
+*.egg-info/
+*.eggs/
+
+# --- IDE & Editor Files ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --- Reports, Exports, and Outputs ---
+*.pdf
+*.docx
+*.pptx
+*.rtf
+*.zip
+*.tar
+*.gz
+
+# --- Data Caches ---
+*.cache/
+*.log/
+*.bak/
+*.dat/
+*.db/
+*.sqlite/
+
+# --- Temporary Checkpoints ---
+~$*
+*.tmp
